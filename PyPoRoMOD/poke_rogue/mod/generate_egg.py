@@ -17,7 +17,7 @@ class EggTier(Enum):
     COMMON = 0
     RARE = 1
     EPIC = 2
-    LEGENDARY = 3
+    LEGENDARY = 2
     MANAPHY = 4
 
 
